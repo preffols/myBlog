@@ -73,13 +73,13 @@
         <div class="col-xl-2 col-md-4 col-6">
           <div class="icon-box">
             <i class="ri-store-line"></i>
-            <h3><a href="">ICT</a></h3>
+            <h3><a href="http://www.wiseup.epizy.com/">ICT</a></h3>
           </div>
         </div>
         <div class="col-xl-2 col-md-4 col-6 ">
           <div class="icon-box">
             <i class="ri-bar-chart-box-line"></i>
-            <h3><a href="">ELECTRICAL</a></h3>
+            <h3><a href="http://www.wiseup.epizy.com/">ELECTRICAL</a></h3>
           </div>
         </div>
         <div class="col-xl-2 col-md-4 col-6 mt-4 mt-md-0">
@@ -231,7 +231,7 @@
           <div class="col-lg-4 col-md-6 d-flex align-items-stretch mt-4" data-aos="zoom-in" data-aos-delay="200">
             <div class="icon-box">
               <div class="icon"><i class="bx bx-slideshow"></i></div>
-              <h4><a href="">E-products</a></h4>
+              <h4><a href="E-products/index.php">E-products</a></h4>
               <p>We sell High Quality Tech Products</p>
             </div>
           </div>
@@ -703,7 +703,7 @@
 
           <div class="col-lg-3 col-md-6">
             <div class="footer-info">
-              <h3>e-Envoy<span>.</span></h3>
+              <h3>Wise Up Youth<span>.</span></h3>
               <p>
                 Mpemba Street <br>
                 Blantyre, Malawi<br><br>
@@ -761,7 +761,7 @@
       </div>
       <div class="credits">
         
-        Designed by <a href="http://www.wiseup.epizy.com/">Prince Escales Nsusa</a>
+        Designed by <a href="http://www.wiseupyouth.com/">Prince Escales Nsusa</a>
       </div>
     </div>
   </footer><!-- End Footer -->
